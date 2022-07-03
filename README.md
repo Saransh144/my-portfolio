@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [General Info](#general-information)
-- [Tech Stack Used](#technologies-used)
+- [Tech Stack Used](#tech-stack-used)
 - [Screenshots](#screenshots)
 - [Setup](#setup)
 - [Project Status](#project-status)

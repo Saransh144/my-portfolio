@@ -44,16 +44,6 @@ List the ready features here:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-The project can be built with npm or yarn, so choose one of the approach bellow in case you don't
-have any installed on your system.
-
-- npm is distributed with Node.js which means that when you download Node.js,
-  you automatically get npm installed on your computer. [Download Node.js](https://nodejs.org/en/download/)
-
-or
-
-- Yarn is a package manager built by Facebook Team and seems to be faster than npm in general. [Download Yarn](https://yarnpkg.com/en/docs/install)
-
 To download the project follow the instructions bellow
 
 ```
@@ -61,23 +51,7 @@ git clone https://github.com/Saransh144/my-portfolio
 cd my-portfolio
 ```
 
-Install dependencies and run with:
-
-npm
-
-```
-npm install
-npm start
-```
-
-or
-
-yarn
-
-```
-yarn install
-yarn start
-```
+Preview index.html file on your browser.
 
 <!-- ## Usage
 
